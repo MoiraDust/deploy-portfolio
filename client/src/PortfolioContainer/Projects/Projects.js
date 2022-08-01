@@ -59,28 +59,17 @@ export default function Projects(props) {
                 <div className="project-item">
                   <div className="project-comment">
                     <p>
-                      <i className="fa fa-quote-left" />
-                      Main Technologies: React. A Personal portfolio to show all
-                      of my details
-                      <i className="fa fa-quote-right" />
+                      <i className="fa fa-file-code-o" />
+                      Main Stack: React. js
+                      <br />
+                      <i className="fa fa-file-text-o" />
+                      Description:
+                      <br />- This page is used to show myself.
+                      <br />- This is a static page with no backend.
+                      <br />- You can download my CV, browser my projects, find
+                      my contact details and understand me a little in the
+                      website.
                     </p>
-                    {/* <ul className="stars list-unstyled">
-                      <li>
-                        <i className="fa fa-star" />
-                      </li>
-                      <li>
-                        <i className="fa fa-star" />
-                      </li>
-                      <li>
-                        <i className="fa fa-star" />
-                      </li>
-                      <li>
-                        <i className="fa fa-star-half-alt" />
-                      </li>
-                      <li>
-                        <i className="fa fa-star" />
-                      </li>
-                    </ul> */}
                   </div>
                   <div className="project-info">
                     <img
@@ -88,7 +77,10 @@ export default function Projects(props) {
                       alt="no connection"
                     />
                     <a href="#">
-                      <h5>Personal Portfolio</h5>
+                      <h5>
+                        <i className="fa fa-link" />
+                        Personal Portfolio
+                      </h5>
                     </a>
                     <p>Jul 2022 - Jul 2022</p>
                   </div>
@@ -99,33 +91,25 @@ export default function Projects(props) {
                 <div className="project-item">
                   <div className="project-comment">
                     <p>
-                      <i className="fa fa-quote-left" />
-                      Main Technologies: PHP, SQL, Laravel. A demo about the
-                      simple commercial website
-                      <i className="fa fa-quote-right" />
+                      <i className="fa fa-file-code-o" />
+                      Main Stack: PHP, MySQL, Laravel
+                      <br />
+                      <i className="fa fa-file-text-o" />
+                      Description:
+                      <br />- This website is based on PHP.
+                      <br />- This is not a front and back end separated site.
+                      <br />- You can browser and search the goods, login,
+                      logout, register, look through the recommend staff in the
+                      carousel and place the order
                     </p>
-                    {/* <ul className="stars list-unstyled">
-                      <li>
-                        <i className="fa fa-star" />
-                      </li>
-                      <li>
-                        <i className="fa fa-star" />
-                      </li>
-                      <li>
-                        <i className="fa fa-star" />
-                      </li>
-                      <li>
-                        <i className="fa fa-star-half-alt" />
-                      </li>
-                      <li>
-                        <i className="fa fa-star" />
-                      </li>
-                    </ul> */}
                   </div>
                   <div className="project-info">
                     <img src="img/Projects/php.jpeg" alt="no connection" />
                     <a href="https://www.youtube.com/watch?v=QjKziE-_a7I">
-                      <h5>E-commercial website</h5>
+                      <h5>
+                        <i className="fa fa-link" />
+                        E-commercial website
+                      </h5>
                     </a>
                     <p>Apr 2022 - Apr 2022</p>
                   </div>
@@ -136,33 +120,24 @@ export default function Projects(props) {
                 <div className="project-item">
                   <div className="project-comment">
                     <p>
-                      <i className="fa fa-quote-left" />
-                      Main Technologies: Django, SQL. A restful API to add,
-                      delete, alter and query the data for medicine industry
-                      <i className="fa fa-quote-right" />
+                      <i className="fa fa-file-code-o" />
+                      Main Stack: Django, MySQL
+                      <br />
+                      <i className="fa fa-file-text-o" />
+                      Description:
+                      <br />- This is a restful API project.
+                      <br />- You can do add, delete, alter and query operations
+                      <br />- There is no visualization of the results of this
+                      project, so I've attached my git repository here
                     </p>
-                    {/* <ul className="stars list-unstyled">
-                      <li>
-                        <i className="fa fa-star" />
-                      </li>
-                      <li>
-                        <i className="fa fa-star" />
-                      </li>
-                      <li>
-                        <i className="fa fa-star" />
-                      </li>
-                      <li>
-                        <i className="fa fa-star-half-alt" />
-                      </li>
-                      <li>
-                        <i className="fa fa-star" />
-                      </li>
-                    </ul> */}
                   </div>
                   <div className="project-info">
                     <img src="img/Projects/django.jpeg" alt="no connection" />
                     <a href="https://github.com/MoiraDust/Django-Demo">
-                      <h5>Restful API for Medicine industry</h5>
+                      <h5>
+                        <i className="fa fa-link" />
+                        Restful API for Medicine industry
+                      </h5>
                     </a>
                     <p>Mar 2022 - Mar 2022</p>
                   </div>
@@ -173,28 +148,16 @@ export default function Projects(props) {
                 <div className="project-item">
                   <div className="project-comment">
                     <p>
-                      <i className="fa fa-quote-left" />
-                      Main Technologies: React. A tool to manage the whole day's
-                      tasks
-                      <i className="fa fa-quote-right" />
+                      <i className="fa fa-file-code-o" />
+                      Main Stack: React
+                      <br />
+                      <i className="fa fa-file-text-o" />
+                      Description:
+                      <br />- You can view, add, delete and alter your tasks
+                      <br />- This website does not have any backend, so you CAN
+                      NOT login and logout. Please DO NOT really use it as a
+                      tool, it's just a practice project for me.
                     </p>
-                    {/* <ul className="stars list-unstyled">
-                      <li>
-                        <i className="fa fa-star" />
-                      </li>
-                      <li>
-                        <i className="fa fa-star" />
-                      </li>
-                      <li>
-                        <i className="fa fa-star" />
-                      </li>
-                      <li>
-                        <i className="fa fa-star-half-alt" />
-                      </li>
-                      <li>
-                        <i className="fa fa-star" />
-                      </li>
-                    </ul> */}
                   </div>
                   <div className="project-info">
                     <img
@@ -202,7 +165,10 @@ export default function Projects(props) {
                       alt="no connection"
                     />
                     <a href="https://moira-todolist.herokuapp.com/">
-                      <h5>Todo List</h5>
+                      <h5>
+                        <i className="fa fa-link" />
+                        Todo List
+                      </h5>
                     </a>
                     <p>Jan 2022 - Jan 2022</p>
                   </div>
@@ -213,32 +179,25 @@ export default function Projects(props) {
                 <div className="project-item">
                   <div className="project-comment">
                     <p>
-                      <i className="fa fa-quote-left" />
-                      Main Technologies: MERN. A simple shopping site
-                      <i className="fa fa-quote-right" />
+                      <i className="fa fa-file-code-o" />
+                      Main Stack: "MERN"
+                      <br />
+                      <i className="fa fa-file-text-o" />
+                      Description:
+                      <br />- This is a virtual shopping site.
+                      <br />- This is a front and back end separation project
+                      <br />- You can browser the items, add items to cart,
+                      login, logout and register, change your account details
+                      and place the order
                     </p>
-                    {/* <ul className="stars list-unstyled">
-                      <li>
-                        <i className="fa fa-star" />
-                      </li>
-                      <li>
-                        <i className="fa fa-star" />
-                      </li>
-                      <li>
-                        <i className="fa fa-star" />
-                      </li>
-                      <li>
-                        <i className="fa fa-star-half-alt" />
-                      </li>
-                      <li>
-                        <i className="fa fa-star" />
-                      </li>
-                    </ul> */}
                   </div>
                   <div className="project-info">
                     <img src="img/Projects/nodejs.png" alt="no connection" />
                     <a href="https://www.youtube.com/watch?v=ZtKgmbNh6p0">
-                      <h5>Shopping Site</h5>
+                      <h5>
+                        <i className="fa fa-link" />
+                        Shopping Site
+                      </h5>
                     </a>
                     <p>Nov 2021 - Dec 2021</p>
                   </div>
@@ -249,33 +208,33 @@ export default function Projects(props) {
                 <div className="project-item">
                   <div className="project-comment">
                     <p>
-                      <i className="fa fa-quote-left" />
+                      {/* <i className="fa fa-quote-left" />
                       Main Technologies: MERN. An online test system which can
                       rank the players
-                      <i className="fa fa-quote-right" />
+                      <i className="fa fa-quote-right" /> */}
+                      <i className="fa fa-file-code-o" />
+                      Main Stack: "MERN"
+                      <br />
+                      <i className="fa fa-hand-o-right"></i>
+                      Collab: Switch Maven, Sydney
+                      <br />
+                      <i className="fa fa-file-text-o" />
+                      Description:
+                      <br />- This is my capstone project. I developed the site
+                      based on client's requirements
+                      <br />- This is site has two roles, they are admin and
+                      player. Admin can upload files, browser and alter players'
+                      details. Player can do the tests. The main purpose of this
+                      project is to screen the players.
                     </p>
-                    {/* <ul className="stars list-unstyled">
-                      <li>
-                        <i className="fa fa-star" />
-                      </li>
-                      <li>
-                        <i className="fa fa-star" />
-                      </li>
-                      <li>
-                        <i className="fa fa-star" />
-                      </li>
-                      <li>
-                        <i className="fa fa-star-half-alt" />
-                      </li>
-                      <li>
-                        <i className="fa fa-star" />
-                      </li>
-                    </ul> */}
                   </div>
                   <div className="project-info">
                     <img src="img/Projects/mongodb.png" alt="no connection" />
                     <a href="https://moira-resume.herokuapp.com/experience/1">
-                      <h5>Capstone: Screen System</h5>
+                      <h5>
+                        <i className="fa fa-link" />
+                        Capstone: Screen System
+                      </h5>
                     </a>
                     <p>Sep 2021 - Nov 2021</p>
                   </div>
@@ -286,34 +245,32 @@ export default function Projects(props) {
                 <div className="project-item">
                   <div className="project-comment">
                     <p>
-                      <i className="fa fa-quote-left" />
+                      {/* <i className="fa fa-quote-left" />
                       Main Technologies: React, Spring Boot, MySQL, face-api.js,
                       BaiDu Face API, JAVA. A system that enables attendance
                       recording by face recognition
-                      <i className="fa fa-quote-right" />
+                      <i className="fa fa-quote-right" /> */}
+                      <i className="fa fa-file-code-o" />
+                      Main Stack: React, Spring Boot, MySQL, face-api.js, BaiDu
+                      Face API, JAVA
+                      <br />
+                      <i className="fa fa-file-text-o" />
+                      Description:
+                      <br />- This is a smart education system.
+                      <br />- This is a front and back end separation project
+                      <br />- This site has two roles, they are student and
+                      teacher. Student can record attendance using face
+                      recognition and browser BBS of each course. Teacher can
+                      check students' attendance and browser BBS.
                     </p>
-                    {/* <ul className="stars list-unstyled">
-                      <li>
-                        <i className="fa fa-star" />
-                      </li>
-                      <li>
-                        <i className="fa fa-star" />
-                      </li>
-                      <li>
-                        <i className="fa fa-star" />
-                      </li>
-                      <li>
-                        <i className="fa fa-star-half-alt" />
-                      </li>
-                      <li>
-                        <i className="fa fa-star" />
-                      </li>
-                    </ul> */}
                   </div>
                   <div className="project-info">
                     <img src="img/Projects/spring.png" alt="no connection" />
                     <a href="https://moira-resume.herokuapp.com/experience/2">
-                      <h5>Smart Education</h5>
+                      <h5>
+                        <i className="fa fa-link" />
+                        Smart Education
+                      </h5>
                     </a>
                     <p>Nov 2021 - Nov 2021</p>
                   </div>
@@ -323,7 +280,6 @@ export default function Projects(props) {
           </div>
         </div>
       </section>
-
       <div className="footer-image">
         <img src="img/Projects/shape-bg.png" alt="" />
       </div>
