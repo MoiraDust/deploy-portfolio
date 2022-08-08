@@ -148,12 +148,22 @@ export default function Resume(props) {
         </div>
         <div className="experience-description">
           <span className="resume-description-text">
-            - I am using uni-app to develop the front end of the software.
+            - Using Vue.js and uni-app to build the new features and pages for a
+            takeaway software.
           </span>
           <br />
           <span className="resume-description-text">
-            - I will attend the weekly meetings and report to technical leaders
-            and shareholders on my week's work
+            - Using Vue.js to integrate with Spring-boot to build new functions
+            for the order and user management website.
+          </span>
+          <br />
+          <span className="resume-description-text">
+            - Tracking and fixing bugs that are found by group mates.
+          </span>
+          <br />
+          <span className="resume-description-text">
+            - Attending weekly meetings to report on the week's work and the
+            next week's schedule
           </span>
           <br />
           {/* <span className="resume-description-text">- none</span>

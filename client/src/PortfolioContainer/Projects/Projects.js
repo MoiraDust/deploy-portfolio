@@ -54,13 +54,13 @@ export default function Projects(props) {
               id="projects-carousel"
               {...options}
             >
-              {/* project 1 : Personal Portfolio*/}
+              {/* project 1 : Greedy Snake*/}
               <div className="col-lg-12">
                 <div className="project-item">
                   <div className="project-comment">
                     <p>
                       <i className="fa fa-file-code-o" />
-                      Main Stack: React. js
+                      Main Stack: Typescript
                       <br />
                       <i className="fa fa-file-text-o" />
                       Description:
@@ -72,17 +72,14 @@ export default function Projects(props) {
                     </p>
                   </div>
                   <div className="project-info">
-                    <img
-                      src="img/Projects/logo-react-icon.png"
-                      alt="no connection"
-                    />
-                    <a href="#">
+                    <img src="img/Projects/greedy.png" alt="no connection" />
+                    <a href="https://56gf7h.sse.codesandbox.io/">
                       <h5>
                         <i className="fa fa-link" />
-                        Personal Portfolio
+                        Greedy Snake
                       </h5>
                     </a>
-                    <p>Jul 2022 - Jul 2022</p>
+                    <p>Aug 2022 - Aug 2022</p>
                   </div>
                 </div>
               </div>
