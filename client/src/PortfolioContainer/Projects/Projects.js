@@ -54,6 +54,35 @@ export default function Projects(props) {
               id="projects-carousel"
               {...options}
             >
+              {/* project 0 : Dino Jump*/}
+              <div className="col-lg-12">
+                <div className="project-item">
+                  <div className="project-comment">
+                    <p>
+                      <i className="fa fa-file-code-o" />
+                      Main Stack: Typescript
+                      <br />
+                      <i className="fa fa-file-text-o" />
+                      Description:
+                      <br />- This project is a simple replica of Google's
+                      Dinosaur Jumping game using Typescript
+                      <br />- Press Space to start the game
+                      <br />- If there is any infringement please notify me to
+                      delete this project
+                    </p>
+                  </div>
+                  <div className="project-info">
+                    <img src="img/Projects/dino.png" alt="no connection" />
+                    <a href="https://bqf4xd.sse.codesandbox.io/">
+                      <h5>
+                        <i className="fa fa-link" />
+                        Dinosaur Jumping
+                      </h5>
+                    </a>
+                    <p>Aug 2022 - Aug 2022</p>
+                  </div>
+                </div>
+              </div>
               {/* project 1 : Greedy Snake*/}
               <div className="col-lg-12">
                 <div className="project-item">
